@@ -1,0 +1,4 @@
+# Node / Python / temp files
+*.log
+*.tmp
+__pycache__/
